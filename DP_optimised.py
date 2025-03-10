@@ -1,5 +1,6 @@
 """
-Ce code est une version optimisée de l'algorithme de Davis-Putnam. Au fil du code, vous trouverez des commentaires, commençant par 'Optimisation' qui expliquent les optimisations apportées. Ces optimisations permettent de réduire le temps d'exécution de l'algorithme.
+Ce code est une version optimisée de l'algorithme de Davis-Putnam. Au fil du code, vous trouverez des commentaires, commençant par 'Optimisation'
+qui expliquent les optimisations apportées. Ces optimisations permettent de réduire le temps d'exécution de l'algorithme.
 """
 
 from collections import Counter
