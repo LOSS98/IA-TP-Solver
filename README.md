@@ -2,6 +2,8 @@
 **Khalil MZOUGHI et Lorick DESERT<br>
 3A FISA INFO - INSA Hauts-de-France**
 
+https://github.com/LOSS98/IA-TP-Solver
+
 Ce TP implémente et compare deux algorithmes de résolution de problèmes de satisfiabilité (SAT) : l'algorithme de Davis-Putnam (DP) optimisé et l'algorithme de Davis-Putnam-Logemann-Loveland (DPLL).
 
 ## Structure du projet
@@ -17,7 +19,7 @@ Ce TP implémente et compare deux algorithmes de résolution de problèmes de sa
 ## Comment exécuter
 
 1. Assurez-vous d'avoir Python installé sur votre système.
-2. Clonez ou téléchargez ce dépôt.
+2. Clonez ou téléchargez ce dépôt disponible sur GitHub : https://github.com/LOSS98/IA-TP-Solver.
 3. Placez-vous dans le répertoire du projet.
 4. Exécutez le programme principal :
 
